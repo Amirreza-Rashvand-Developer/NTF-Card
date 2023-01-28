@@ -2,7 +2,7 @@
 
 ![viewfinal](https://raw.githubusercontent.com/Amirreza-Rashvand-Developer/NTF-Card/main/preview.png)
 
-- [Demo Project](https://amirreza-rashvand-developer.github.io/StartUp/)
+- [Demo Project](https://amirreza-rashvand-developer.github.io/NTF-Card/)
 
 - Developed by amirreza rashvand
 
