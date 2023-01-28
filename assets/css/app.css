@@ -1,0 +1,55 @@
+/* ==== Variables ==== */
+:root {
+  --Raisin-black: #232334;
+  --Silver-chalice: #ababab;
+  --Blue: #00a2ff;
+  --Dark-Blue: #003452;
+  --white: #ffffff;
+  --Xiketic: #12121c;
+  --Xiketic-black: #14141f;
+  --space-cadet: #222f49;
+}
+
+/* ==== Config ==== */
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+  /* 62.5% ==> 10px */
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: "Poppins-Regular";
+  line-height: 1.6;
+  font-size: 1.6rem;
+  background-color: var(--Raisin-black);
+}
+
+/* ==== Reset ==== */
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  width: 100%;
+}
+
+/* ==== Start ==== */
+.container .card {
+  width: 30rem;
+  height: 20rem;
+  background-color: var(--Xiketic);
+}
+
+/* ==== Finish ==== */
+
+/*# sourceMappingURL=app.css.map */
